@@ -84,6 +84,10 @@
 
 ## Blue Team
 
+* Given an HTTP traffic log between a machine on your network and a 3rd party website (e.g. Google), what would the source and destination ports look like?
+  * Source port might be some number above port 1024 (aka [ephemeral port](https://en.wikipedia.org/wiki/Ephemeral_port))
+  * Destination port might be 80 (HTTP) or 443 (HTTPS)
+
 ## Encryption
 
 * What's the difference between encoding, encryption, and hashing?
