@@ -7,6 +7,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Application Security](#application-security)
+* [Architect](#architect)
 * [Blue Team](#blue-team)
 * [Encryption](#encryption)
 * [Forensics](#forensics)
@@ -81,6 +82,18 @@
 
   * HTTP is stateless
   * State is stored in cookies
+
+## Architect
+
+* Have you designed security measures that span overlapping information domains?
+* Can you give me a few examples of security architecture requirements?
+* What special security challenges does Service-Oriented-Architecture (SOA) present?
+* Have you architected a security solution that involved SaaS components? What challenges did you face?
+* Have you worked on a project in which stakeholders choose to accept identified security risks that worried you? How did you handle the situation?
+* How do you handle demands from different stakeholders who have conflicting requirements?
+* How do you ensure that solution architects develop secure solutions?
+* How do you ensure that a solution continues to be resilient in the face of evolving threats?
+* What do you think the most important technology is right now? How are we going to secure it?
 
 ## Blue Team
 
