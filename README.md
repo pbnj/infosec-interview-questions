@@ -167,6 +167,28 @@
 ## Red Team
 
 ## Vulnerability Management
+* Which classification of vulnerabilities get exploited the most?
+* How often should you scan?
+* What is the difference between an external and internal scan?
+* What is the difference between authenticated and unauthenticated scan?
+* How could a scan fingerprint an OS?
+* What is a CVSS score?
+* How should you break out scans?
+* How would you advise the different organizations on what they should patch first?
+* What is a vulnerability?
+* Are you familiar with any of the industry standard ways that vulnerabilities are tracked?
+* What is CVE and why is the standardization it provides important?
+* Where would you go to find additional info about a vulnerability?
+* What is the difference between an exploit and a vulnerability?
+* If there is a threat, but no vulnerability, would you say that there is still risk? What if there is a vulnerability, but no threat?
+* Can you list any vulnerabilities that you've recently heard about?
+* Are you familiar with any of the tools used to scan for vulnerabilities? If no, can you name any?
+* Can you list any tools used to patch vulnerabilities across an enterprise?
+* What is SCCM?
+* Are you familiar with any of the open source tools commonly used to exploit vulnerabilities?
+* Can you list any software that is known for consistently having vulnerabilities?
+* How often are Microsoft patches released (non emergency?
+* What is a Microsoft KB #?
 
 ## Where Credit is Due
 
